@@ -8,11 +8,11 @@
 #include <Adafruit_SSD1306.h>
 
 // --- Wi-Fi Credentials ---
-const char* ssid = "SIDDHI";
-const char* password = "Koelnagara@8";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
 
 // --- MQTT Broker Details ---
-const char* mqtt_server = "94.136.188.174";
+const char* mqtt_server = "94.136.188.17";
 const int mqtt_port = 1883;
 const char* mqtt_user = "mqttadmin";
 const char* mqtt_password = "isdr@430";
